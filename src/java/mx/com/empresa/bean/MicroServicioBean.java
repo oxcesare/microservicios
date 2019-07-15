@@ -11,5 +11,5 @@ package mx.com.empresa.bean;
  */
 public class MicroServicioBean {
     
-    EmpleadoBean empleado = new EmpleadoBean();
+   // EmpleadoBean empleado = new EmpleadoBean();
 }
