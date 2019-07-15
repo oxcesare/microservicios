@@ -3,13 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package mx.com.empresa.bean;
+package mx.com.empresa.objetos;
 
 /**
  *
  * @author cesaralducinruiz
  */
-public class MicroServicioBean {
+public class Test {
     
-    EmpleadoBean empleado = new EmpleadoBean();
 }
